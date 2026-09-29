@@ -1,0 +1,9 @@
+{
+    "PyodideLockAddon": {
+        "enabled": true,
+        "specs": [],
+        "constraints": [],
+        "excludes": [],
+        "wheels": ["wheels/"]
+    }
+}
